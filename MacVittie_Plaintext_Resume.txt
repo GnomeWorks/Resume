@@ -1,0 +1,63 @@
+KOREY MACVITTIE
+SOFTWARE ENGINEER • DATA SCIENTIST • TEMPORAL LOGICIAN
+(920) 461-2473 • HUNTSVILLE, AL • KOREY.MACVITTIE@GMAIL.COM
+LINKEDIN.COM/IN/KOREYMACVITTIE • GITHUB.COM/GNOMEWORKS 
+US CITIZEN • DOD ACTIVE SECRET CLEARANCE
+
+== SUMMARY ==
+My ultimate goal is to pull forth thought from the void: it is my belief that strong AI is not only possible, but achievable within my lifetime. To that end, my overall emphasis is on machine learning, but I have studied other fields – such as cognitive science, psychology, economics, and neurobiology – to glean further insights into the nature of intelligence.
+
+== EXPERIENCE ==
+DATA SCIENTIST • COLSA CORPORATION • HUNTSVILLE, AL • FEB 2020 – OCT 2020
++ Assisted in the research and development of means for UAV autonomous flight, including collision avoidance, object detection, mesh networking, and swarming behavior
++ Assisted in the research and development of means for signal jamming and interference detection on radio waves
++ Oversaw the activities of four interns during their summer internship, providing guidance on tasking and assisting in project execution and completion
+
+ENGINEER SCIENTIST • ARCARITHM • HUNTSVILLE, AL • JUL 2019 – JAN 2020
++ Designed and developed an application for parsing video files into frames and sending that information across a network using a variety of messaging frameworks, using Python, Javascript, Java, RabbitMQ, and SocketIO
++ Designed and implemented a GAN for synthetic data production, using Python, Tensorflow, and MongoDB
+SOFTWARE ENGINEER • BARRIOS TECHNOLOGY • HUNTSVILLE, AL • OCT 2015 – JUL 2019
++ As a software engineer working on a NASA contract at Marshall Space Flight Center in Huntsville, AL, my duties included the design, implementation, modification, and maintenance of telemetry software in support of both the International Space Station (ISS) and Space Launch System (SLS) programs, working primarily in C in a Linux environment, with some C# in Windows
+o Took responsibility for network traffic simulation software and modified it to allow for generation of SLS-specific data, which was required for testing and verification of other telemetry subsystems for SLS, and is regularly used in ongoing development and testing of additional ISS and SLS software
+- Modified same software to enable it to run as a server, rather than as a broadcast service, allowing users to connect to it and receive specified network traffic
+o Designed and implemented an ISS simulator that allows remote payload developers to test their payloads in a simulated ISS environment, and provided modifications to other software required for those environments
+o Developed software that translates MSFC data definitions into alternative formats needed for the SLS program for engine testing
+o Designed modifications for an overhaul of telemetry processing management software, significantly increasing potential number of subscribers to processed data as well as reducing potential user error in server setup
+o Strongly advocated for the use of AI in error state prediction, subsystem failure prediction, and simulations; helped spearhead the development of an exploratory data science team for such purposes
+
+== PUBLICATIONS ==
++ Morgan, C., Rodriguez, R., MacVittie, K., Slater, R., and Engels, D. (2019) “Identifying Undervalued Players in Fantasy Football.” SMU Data Science Review. Vol 2: No. 2, Article 14
+
+== EDUCATION ==
+M.S. DATA SCIENCE • SOUTHERN METHODIST UNIVERSITY • AUG 2019
++ Specialization in Machine Learning
++ Coursework in data analysis, statistical inference, database management, data mining, data and network security, machine learning (ML), data visualization, and natural language processing (NLP); using Python, R, SAS, and SQL
++ Significant projects included:
+- Exploratory data analysis of home prices using linear regressions on various features of homes to estimate value
+- An in-depth analysis of fatal accident data in the US from 2015 to 2017, analyzing relationships between weather, time of day, road type, and driver condition to find proximal causes for fatal accidents
+- Significant research into generative adversarial networks (GANs) and some of their use cases, developed into a 10-minute video presentation
+
+B.S. COMPUTER SCIENCE • UNIVERSITY OF WISCONSIN – GREEN BAY • MAY 2015
++ Coursework in software engineering, object-oriented design, data structures, game engines, and artificial intelligence
++ Capstone essay titled "The Many-Minded Machine: A Multi-Agent Approach to Artificial Intelligence," synthesizing concepts from psychology, neurobiology, and computer science
++ Significant projects included:
+- Reinforcement-learning AIs for playing tic-tac-toe and maze solving, both utilizing Q-learning (reinforcement learning) algorithms written from scratch in Java
+- A simple 3D platformer game written in Unity, utilizing Blender for low-poly models
+
+B.S. PHILOSOPHY • UNIVERSITY OF WISCONSIN – GREEN BAY • MAY 2015
++ Coursework in symbolic and temporal logic, epistemology, consciousness, metaphysics, and causality
++ Significant papers included:
+- “In The Fields of Time: An Argument for Persistent Identity and Causality,” a rebuttal to the Hume, presenting an argument for preservation of identity through relations and a mechanistic account of causality
+- “Last Thursday: A Rebuttal to Moore’s Common Sense Argument for Realism,” an argument that holds that direct realism arguments for reality are unprovable and untenable
+- “Candle Morality,” a project that attempted to construct a socially-positive, life-affirming moral framework from the starting point of Nietzschean nihilism
+
+== TOOLS ==
+C • Java • Python (NumPy, pandas, scikit-learn, TensorFlow) • R • SQL • C# • SAS • Docker • Linux (RHEL 5, RHEL 7, Ubuntu) • Windows (7, 10) • Visual Studio • Eclipse • RStudio • Jupyter Notebook • MySQL • Unity • Unreal • Git (GitHub, GitLab)
+
+== PROJECTS ==
++ Dungeon Mobs, a mod for Minecraft which adds a variety of hostile creatures, each with unique behavior; written in Java using Eclipse in a Windows environment
+- Implemented creatures according to a design document, developed based upon perceived holes in core Minecraft gameplay
++ Steamworks: A Guide to Technology in Fantasy Settings, a 180-page sourcebook for the d20 System, a tabletop roleplaying game
+- Extensive research into the technological capabilities of Western civilization during the 19th century, including investigation of advancements in firearm technology, calculating engines, and advancements in automation and manufacturing practices of the era
+
+
